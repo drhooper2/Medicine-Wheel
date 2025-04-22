@@ -1,0 +1,14 @@
+
+Reusable Prompt for a Square Medicine Wheel Poster (Website-Ready)
+
+Can you create a 768x768 pixel PNG image in the same style as the Medicine Wheel Elements poster
+(with a beige background, bold direction labels, clear icons in each quadrant, and simple plant decorations)?
+
+I'd like the following labels and layout:
+- Top (North): [Your label here]
+- Right (East): [Your label here]
+- Bottom (South): [Your label here]
+- Left (West): [Your label here]
+
+Please match the colors and clarity from the Fire/Water/Air-style wheels, and make it website-embedding friendly
+(PNG, no text blur, square proportions).
